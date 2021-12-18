@@ -58,5 +58,72 @@
   발송인 사원번호
 </string>
 
+    <string name="register_btn">
+
+등록
+</string>
+
+    <string name="alertTitle">
+
+알림
+</string>
+
+    <string name="searchPerson">
+
+        일치하는 사원이 없습니다.\n 다시 검색해주세요.
+</string>
+
+    <string name="retry_search">
+
+다시 검색
+</string>
+
+    <string name="getText">
+
+#NAME 님이 물품을 수령하셨습니다.
+</string>
+
+    <string name="getText1">
+
+출발 시간 : #TIME
+</string>
+
+    <string name="main_btn">
+
+메인으로
+</string>
+
+    <string name="getText2">
+
+로봇 #PLACE 앞으로 도착습니다.
+</string>
+
+    <string name="finish_btn">
+
+수령완료
+</string>
+
+    <string name="getText3">
+
+#NAME 님이 요청을 수락하셨습니다.
+</string>
+
+    <string name="to_main">
+
+메인으로
+</string>
+
+    <string name="place_date">
+
+    로봇사원 포석호.\n#PLACE 앞에서 출발합니다.\n출발시간 : #DATE
+</string>
+
+    <string name="reject_txt">
+
+요청을 거절했습니다.
+</string>
+
+
+
 
 </resources>

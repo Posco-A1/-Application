@@ -160,6 +160,220 @@
 
     </style>
 
+    <style name="register_btn">
+
+        <item name="android:textSize">
+            60px
+        </item>
+
+        <item name="android:letterSpacing">
+            0.01
+        </item>
+
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+
+    </style>
+
+    <style name="alertTitle">
+
+        <item name="android:textSize">
+            60px
+        </item>
+
+        <item name="android:letterSpacing">
+            0
+        </item>
+
+        <item name="android:textColor">
+            #2B2B43
+        </item>
+
+    </style>
+
+    <style name="searchPerson">
+
+        <item name="android:textSize">
+            55px
+        </item>
+
+        <item name="android:letterSpacing">
+            0
+        </item>
+
+        <item name="android:textColor">
+            #2B2B43
+        </item>
+
+    </style>
+
+    <style name="retry_search">
+
+        <item name="android:textSize">
+            55px
+        </item>
+
+        <item name="android:letterSpacing">
+            0.01
+        </item>
+
+        <item name="android:textColor">
+            #000000
+        </item>
+
+    </style>
+
+    <style name="getText">
+
+        <item name="android:textSize">
+            55px
+        </item>
+
+        <item name="android:letterSpacing">
+            0
+        </item>
+
+        <item name="android:textColor">
+            #2B2B43
+        </item>
+
+    </style>
+
+    <style name="getText1">
+
+        <item name="android:textSize">
+            55px
+        </item>
+
+        <item name="android:letterSpacing">
+            0
+        </item>
+
+        <item name="android:textColor">
+            #2B2B43
+        </item>
+
+    </style>
+
+    <style name="main_btn">
+
+        <item name="android:textSize">
+            55px
+        </item>
+
+        <item name="android:letterSpacing">
+            0.01
+        </item>
+
+        <item name="android:textColor">
+            #000000
+        </item>
+
+    </style>
+
+    <style name="getText2">
+
+        <item name="android:textSize">
+            55px
+        </item>
+
+        <item name="android:letterSpacing">
+            0
+        </item>
+
+        <item name="android:textColor">
+            #2B2B43
+        </item>
+
+    </style>
+
+    <style name="finish_btn">
+
+        <item name="android:textSize">
+            55px
+        </item>
+
+        <item name="android:letterSpacing">
+            0.01
+        </item>
+
+        <item name="android:textColor">
+            #000000
+        </item>
+
+    </style>
+
+    <style name="getText3">
+
+        <item name="android:textSize">
+            55px
+        </item>
+
+        <item name="android:letterSpacing">
+            0
+        </item>
+
+        <item name="android:textColor">
+            #2B2B43
+        </item>
+
+    </style>
+
+    <style name="to_main">
+
+        <item name="android:textSize">
+            55px
+        </item>
+
+        <item name="android:letterSpacing">
+            0.01
+        </item>
+
+        <item name="android:textColor">
+            #000000
+        </item>
+
+    </style>
+
+    <style name="place_date">
+
+        <item name="android:textSize">
+            55px
+        </item>
+
+        <item name="android:letterSpacing">
+            0
+        </item>
+
+        <item name="android:textColor">
+            #2B2B43
+        </item>
+
+    </style>
+
+    <style name="reject_txt">
+
+        <item name="android:textSize">
+            55px
+        </item>
+
+        <item name="android:letterSpacing">
+            0
+        </item>
+
+        <item name="android:textColor">
+            #2B2B43
+        </item>
+
+    </style>
+
+
+
+
+
+
+
 
 
 

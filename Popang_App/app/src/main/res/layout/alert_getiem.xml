@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/some_id"
+    android:layout_width="1121px"
+    android:layout_height="1148px"
+    android:clipToOutline="true"
+    android:background="@drawable/new_size"
+    >
+
+    <!-- 알림 -->
+    <TextView
+        android:id="@+id/alertTitle1"
+        android:layout_width="901px"
+        android:layout_height="100px"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="110px"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="110px"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="55px"
+        android:text="@string/alertTitle"
+        android:textAppearance="@style/alertTitle"
+        android:lineSpacingExtra="0sp"
+        android:gravity="center_horizontal|center_vertical"
+        android:fontFamily="@font/rowdies"
+        />
+
+    <!-- Line 13 -->
+    <View
+        android:id="@+id/line_13"
+        android:layout_width="1121px"
+        android:layout_height="1px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="6dp"
+        android:layout_marginTop="46dp"
+        android:background="@drawable/line_13" />
+
+    <!-- 일치하는 사원이 없습니다. 다시 검색해주세요. -->
+    <TextView
+        android:id="@+id/getText"
+        android:layout_width="1119px"
+        android:layout_height="110px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="1px"
+        android:layout_marginTop="417px"
+        android:layout_marginRight="1px"
+        android:gravity="center_horizontal|center_vertical"
+        android:lineSpacingExtra="52sp"
+        android:text="@string/getText"
+        android:textAppearance="@style/getText"
+        android:fontFamily="@font/rowdies"/>
+
+    <TextView
+        android:id="@+id/getText1"
+        android:layout_width="1119px"
+        android:layout_height="110px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="1px"
+        android:layout_marginTop="553px"
+        android:layout_marginRight="1px"
+        android:gravity="center_horizontal|center_vertical"
+        android:lineSpacingExtra="52sp"
+        android:text="@string/getText1"
+        android:textAppearance="@style/getText1"
+        android:fontFamily="@font/rowdies"/>
+
+    <Button
+        android:id="@+id/main_btn"
+        android:layout_width="498px"
+        android:layout_height="154px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="312px"
+        android:layout_marginTop="777px"
+        android:layout_marginRight="311px"
+        android:background="@drawable/main_btn"
+        android:elevation="16px"
+        android:fontFamily="@font/nunito"
+        android:text="@string/main_btn"
+        android:textAppearance="@style/main_btn" />
+
+
+
+</RelativeLayout>

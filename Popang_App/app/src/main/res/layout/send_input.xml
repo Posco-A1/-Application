@@ -56,7 +56,8 @@
         android:gravity="center_vertical"
         android:lineSpacingExtra="0sp"
         android:text="@string/send"
-        android:textAppearance="@style/send" />
+        android:textAppearance="@style/send"
+        android:fontFamily="@font/roundbold"/>
 
     <!-- box -->
     <View
@@ -91,6 +92,7 @@
         android:textAppearance="@style/placeholder3"
         android:lineSpacingExtra="0sp"
         android:gravity="center_vertical"
+        android:fontFamily="@font/nunito"
         />
 
     <!-- box -->
@@ -114,19 +116,41 @@
         android:layout_width="1106px"
         android:layout_height="100px"
         android:layout_alignParentLeft="true"
-        android:layout_marginLeft="12dp"
+        android:layout_marginLeft="185px"
         android:layout_alignParentRight="true"
-        android:layout_marginRight="12dp"
+        android:layout_marginRight="179px"
         android:layout_alignParentTop="true"
-        android:layout_marginTop="120dp"
+        android:layout_marginTop="1280px"
         android:layout_alignParentBottom="true"
-        android:layout_marginBottom="120.23dp"
+        android:layout_marginBottom="1610px"
         android:text="@string/placeholder4"
         android:textAppearance="@style/placeholder4"
         android:lineSpacingExtra="0sp"
         android:gravity="center_vertical"
+        android:fontFamily="@font/nunito"
+        />
+
+    <Button
+        android:id="@+id/register_btn"
+        android:layout_width="1130px"
+        android:layout_height="220px"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="155px"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="155px"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="1564px"
+        android:text="@string/register_btn"
+        android:textAppearance="@style/register_btn"
+        android:background="@drawable/register_btn"
+        android:elevation="20dp"
         />
 
 
 
- </RelativeLayout>
+
+
+
+
+
+</RelativeLayout>
