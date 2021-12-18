@@ -44,7 +44,19 @@
 
     <string name="send">
 
-\u00EB\u00B0\u009C\u00EC\u0086\u00A1\u00ED\u0095\u0098\u00EA\u00B8\u00B0
+발송하기
 </string>
+
+    <string name="placeholder3">
+
+  발송인 이름
+</string>
+
+
+    <string name="placeholder4">
+
+  발송인 사원번호
+</string>
+
 
 </resources>

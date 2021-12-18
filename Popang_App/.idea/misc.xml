@@ -18,8 +18,8 @@
         <entry key="app/src/main/res/font/font.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="app/src/main/res/layout/loading.xml" value="0.25" />
-        <entry key="app/src/main/res/layout/login.xml" value="0.25" />
-        <entry key="app/src/main/res/layout/send_input.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/login.xml" value="0.16541353383458646" />
+        <entry key="app/src/main/res/layout/send_input.xml" value="0.17670682730923695" />
       </map>
     </option>
   </component>
