@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/android_loa"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:clipToOutline="true"
+
+    >
+    <ImageView
+        android:id="@+id/some_id"
+        android:layout_width="741dp"
+        android:layout_height="167dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="350dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="1372dp"
+        android:src="@drawable/popang"
+        android:scaleType="fitXY"
+        />
+
+</RelativeLayout>

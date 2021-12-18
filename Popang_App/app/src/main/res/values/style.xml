@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="login_txt">
+
+        <item name="android:textSize">
+            120px
+        </item>
+
+        <item name="android:letterSpacing">
+            0
+        </item>
+
+        <item name="android:textColor">
+            #2B2B43
+        </item>
+
+    </style>
+
+    <style name="placeholder1">
+
+        <item name="android:textSize">
+            60px
+        </item>
+
+        <item name="android:letterSpacing">
+            0
+        </item>
+
+        <item name="android:textColor">
+            #83859C
+        </item>
+
+    </style>
+
+    <style name="placeholder2">
+
+        <item name="android:textSize">
+            60px
+        </item>
+
+        <item name="android:letterSpacing">
+            0
+        </item>
+
+        <item name="android:textColor">
+            #83859C
+        </item>
+
+    </style>
+
+    <style name="login_button">
+
+        <item name="android:textSize">
+            60px
+        </item>
+
+        <item name="android:letterSpacing">
+            0.01
+        </item>
+
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+
+    </style>
+
+
+
+
+</resources>

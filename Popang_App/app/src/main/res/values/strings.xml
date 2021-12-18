@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">pre app</string>
+<string name="login_txt">
+
+사원 로그인
+</string>
+
+    <string name="placeholder1">
+
+  사원번호를 입력해주세요
+</string>
+
+    <string name="placeholder2">
+
+  비밀번호를 입력해주세요
+</string>
+
+    <string name="login_button">
+        로그인
+    </string>
+
+
+
+
+</resources>
