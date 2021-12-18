@@ -56,7 +56,8 @@
         android:gravity="center_vertical"
         android:lineSpacingExtra="0sp"
         android:text="@string/placeholder1"
-        android:textAppearance="@style/placeholder1" />
+        android:textAppearance="@style/placeholder1"
+        />
 
     <!-- box -->
     <View
@@ -90,6 +91,7 @@
         android:textAppearance="@style/placeholder2"
         android:lineSpacingExtra="0sp"
         android:gravity="center_vertical"
+        android:fontFamily="@font/nunito"
         />
 
 
@@ -103,35 +105,10 @@
         android:layout_marginLeft="153px"
         android:layout_marginTop="1545px"
         android:layout_marginRight="152px"
-        android:background="#05507D"
-        android:elevation="20dp" />
-
-    <TextView
-        android:id="@+id/login_button"
-        android:layout_width="1103px"
-        android:layout_height="100px"
-        android:layout_alignParentLeft="true"
-        android:layout_marginLeft="185px"
-        android:layout_alignParentRight="true"
-        android:layout_marginRight="184px"
-        android:layout_centerVertical="true"
+        android:background="@drawable/button_cont"
         android:text="@string/login_button"
         android:textAppearance="@style/login_button"
-        android:lineSpacingExtra="0sp"
-        android:gravity="center_horizontal|center_vertical"
-        />
-
-
-
-
-
-
-
-
-
-
-
-
-
+        android:fontFamily="@font/nunito"
+        android:elevation="20dp" />
 
 </RelativeLayout>

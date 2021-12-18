@@ -64,6 +64,56 @@
 
     </style>
 
+    <style name="send_bnt">
+
+        <item name="android:textSize">
+            70px
+        </item>
+
+        <item name="android:letterSpacing">
+            0
+        </item>
+
+        <item name="android:textColor">
+            #05507D
+        </item>
+
+    </style>
+
+    <style name="receive_txt">
+
+        <item name="android:textSize">
+            70px
+        </item>
+
+        <item name="android:letterSpacing">
+            0
+        </item>
+
+        <item name="android:textColor">
+            #05507D
+        </item>
+
+    </style>
+
+    <style name="send_check_txt">
+
+        <item name="android:textSize">
+            70px
+        </item>
+
+        <item name="android:letterSpacing">
+            0
+        </item>
+
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+
+    </style>
+
+
+
 
 
 

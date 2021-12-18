@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/some_id"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:clipToOutline="true"
+    android:background="@drawable/some_id"
+    >
+
+    <!-- Arrow -->
+<!--    <View-->
+<!--        android:id="@+id/arrow"-->
+<!--        android:layout_width="61.09px"-->
+<!--        android:layout_height="59.63px"-->
+<!--        android:layout_alignParentLeft="true"-->
+<!--        android:layout_alignParentRight="true"-->
+<!--        android:layout_alignParentTop="true"-->
+<!--        android:layout_alignParentBottom="true"-->
+<!--        android:background="@drawable/arrow"-->
+<!--        />-->
+
+
+    <!-- Alert Bell Icon 사진 넣 -->
+<!--    <View-->
+<!--        android:id="@+id/alert_bell_"-->
+<!--        android:layout_width="57px"-->
+<!--        android:layout_height="66px"-->
+<!--        android:layout_alignParentLeft="true"-->
+<!--        android:layout_marginLeft="1339px"-->
+<!--        android:layout_alignParentTop="true"-->
+<!--        android:layout_marginTop="50px"-->
+<!--        android:background="@drawable/alert_bell_"-->
+<!--        />-->
+
+    <View
+        android:id="@+id/line_2"
+        android:layout_width="1440px"
+        android:layout_height="0dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="142px"
+        android:background="@drawable/line_2" />
+
+    <!-- 발송하기 -->
+    <TextView
+        android:id="@+id/send"
+        android:layout_width="518px"
+        android:layout_height="151px"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="155px"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="767px"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="668px"
+        android:text="@string/send"
+        android:textAppearance="@style/send"
+        android:lineSpacingExtra="0sp"
+        android:gravity="center_vertical"
+        />
+
+
+
+ </RelativeLayout>

@@ -5,15 +5,21 @@
 사원 로그인
 </string>
 
+
+
     <string name="placeholder1">
 
   사원번호를 입력해주세요
 </string>
 
+
+
     <string name="placeholder2">
 
   비밀번호를 입력해주세요
 </string>
+
+
 
     <string name="login_button">
         로그인
@@ -21,5 +27,24 @@
 
 
 
+    <string name="send_txt">
+
+발송하기
+</string>
+
+    <string name="receive_txt">
+
+수령확인
+</string>
+
+    <string name="send_check_txt">
+
+배송확인(로봇위치)
+</string>
+
+    <string name="send">
+
+\u00EB\u00B0\u009C\u00EC\u0086\u00A1\u00ED\u0095\u0098\u00EA\u00B8\u00B0
+</string>
 
 </resources>
