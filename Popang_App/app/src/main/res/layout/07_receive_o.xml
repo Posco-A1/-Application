@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/some_id"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:clipToOutline="true"
+    android:background="@drawable/some_id"
+    >
+
+    <!-- Line 2 -->
+    <View
+        android:id="@+id/line_2"
+        android:layout_width="1440px"
+        android:layout_height="3px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="142px"
+        android:width="1443px"
+
+        android:height="3px"
+        android:background="@drawable/line_2"
+        android:strokeColor="#D1D1D1"
+        android:viewportWidth="1443"
+
+        android:viewportHeight="3" />
+
+    <!-- 새로운 수령 알림 -->
+    <TextView
+        android:id="@+id/some_id"
+        android:layout_width="0px"
+        android:layout_height="151px"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="199px"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="597px"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="557px"
+        android:text="새로운 수령 알림"
+        android:textAppearance="true"
+        android:lineSpacingExtra="0px"
+        android:gravity="center_vertical"
+
+        android:textSize="90px"
+        android:letterSpacing="0"
+        android:textColor="#2B2B43"
+        />
+
+    <!-- 발송인 -->
+    <TextView
+        android:id="@+id/some_id"
+        android:layout_width="0px"
+        android:layout_height="80px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="199px"
+        android:layout_marginTop="854px"
+        android:layout_marginRight="891px"
+        android:gravity="center_vertical"
+        android:letterSpacing="0"
+        android:lineSpacingExtra="0px"
+        android:text="발송인"
+
+        android:textAppearance="true"
+        android:textColor="#2B2B43"
+        android:textSize="70px" />
+
+    <!-- 포석호 -->
+    <TextView
+        android:id="@+id/some_id"
+        android:layout_width="0px"
+        android:layout_height="80px"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="644px"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="196px"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="854px"
+        android:text="Input Field"
+        android:textAppearance="true"
+        android:lineSpacingExtra="0px"
+        android:gravity="center_vertical"
+
+        android:textSize="70px"
+        android:letterSpacing="0"
+        android:textColor="#2B2B43"
+        />
+
+    <!-- 부서 -->
+    <TextView
+        android:id="@+id/some_id"
+        android:layout_width="0px"
+        android:layout_height="80px"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="199px"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="891px"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="969px"
+        android:text="부서"
+        android:textAppearance="true"
+        android:lineSpacingExtra="0sp"
+        android:gravity="center_vertical"
+
+        android:textSize="70px"
+        android:letterSpacing="0"
+        android:textColor="#2B2B43"
+        />
+
+    <!-- 로켓배송본부 -->
+    <TextView
+        android:id="@+id/some_id"
+        android:layout_width="0px"
+        android:layout_height="80px"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="644px"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="196px"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="969px"
+        android:text="Input Field"
+        android:textAppearance="true"
+        android:lineSpacingExtra="0px"
+        android:gravity="center_vertical"
+
+        android:textSize="70px"
+        android:letterSpacing="0"
+        android:textColor="#2B2B43"
+        />
+
+    <!-- 사원번호 -->
+    <TextView
+        android:id="@+id/some_id"
+        android:layout_width="0px"
+        android:layout_height="80px"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="199px"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="891px"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="1078px"
+        android:text="사원번호"
+        android:textAppearance="Input Field"
+        android:lineSpacingExtra="0px"
+        android:gravity="center_vertical"
+
+        android:textSize="70px"
+        android:letterSpacing="0"
+        android:textColor="#2B2B43"
+        />
+
+    <!-- 20211018 -->
+    <TextView
+        android:id="@+id/some_id"
+        android:layout_width="0px"
+        android:layout_height="80px"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="644px"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="196px"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="1078px"
+        android:text="Input Field"
+        android:textAppearance="true"
+        android:lineSpacingExtra="0px"
+        android:gravity="center_vertical"
+
+        android:textSize="70px"
+        android:letterSpacing="0"
+        android:textColor="#2B2B43"
+        />
+
+    <!-- 물품 -->
+    <TextView
+        android:id="@+id/some_id"
+        android:layout_width="0px"
+        android:layout_height="80px"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="199px"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="891px"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="1182px"
+        android:text="물품"
+        android:textAppearance="true"
+        android:lineSpacingExtra="0sp"
+        android:gravity="center_vertical"
+
+        android:textSize="70px"
+        android:letterSpacing="0"
+        android:textColor="#2B2B43"
+        />
+
+    <!-- 바나나 -->
+    <TextView
+        android:id="@+id/some_id"
+        android:layout_width="0px"
+        android:layout_height="80px"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="644px"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="196px"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="1182px"
+        android:text="Input Field"
+        android:textAppearance=""
+        android:lineSpacingExtra="0sp"
+        android:gravity="center_vertical"
+
+        android:textSize="70px"
+        android:letterSpacing="0"
+        android:textColor="#2B2B43"
+        />
+
+    <!-- 배송메시지 -->
+    <TextView
+        android:id="@+id/some_id"
+        android:layout_width="0px"
+        android:layout_height="80px"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="199px"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="891px"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="1286px"
+        android:text="배송메시지"
+        android:textAppearance="true"
+        android:lineSpacingExtra="0sp"
+        android:gravity="center_vertical"
+
+        android:textSize="70px"
+        android:letterSpacing="0"
+        android:textColor="#2B2B43"
+        />
+
+    <!-- 대리님 최고최고 -->
+    <TextView
+        android:id="@+id/some_id"
+        android:layout_width="0px"
+        android:layout_height="80px"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="644px"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="196px"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="1286px"
+        android:text="Input Field"
+        android:textAppearance="true"
+        android:lineSpacingExtra="0px"
+        android:gravity="center_vertical"
+
+        android:textSize="70px"
+        android:letterSpacing="0"
+        android:textColor="#2B2B43"
+        />
+
+    <!-- button / contained / accent / default -->
+    <Button xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/button_cont"
+        android:layout_width="0px"
+        android:layout_height="186px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="172px"
+        android:layout_marginTop="1533px"
+        android:layout_marginRight="743px"
+        android:width="525px"
+        android:height="186px"
+
+        android:background="@drawable/button_cont"
+        android:elevation="20px"
+
+        android:fillColor="#05507D"
+        android:letterSpacing="0.01"
+
+        android:text="수락"
+        android:textColor="#FFFFFF"
+        android:textSize="60px"
+        android:viewportWidth="525"
+        android:viewportHeight="186"
+
+        />
+
+    <!-- button / contained / accent / default -->
+    <Button
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/button_cont"
+        android:layout_width="0px"
+        android:layout_height="186px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="744px"
+        android:layout_marginTop="1533px"
+        android:layout_marginRight="171px"
+        android:background="@drawable/button_cont"
+        android:elevation="20px"
+
+        android:fillColor="#05507D"
+        android:letterSpacing="0.01"
+
+        android:text="거절"
+        android:textColor="#FFFFFF"
+        android:textSize="60px"
+        android:viewportWidth="525"
+        android:viewportHeight="186" />
+
+    <!-- Rectangle 26 -->
+    <View
+        android:id="@+id/rectangle_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="2134px"
+        android:width="1450px"
+
+        android:height="802px"
+        android:background="#E5E5E5"
+        android:viewportWidth="1450"
+        android:viewportHeight="802" />
+
+    <!--    <TextView-->
+<!--        android:id="@+id/button"-->
+<!--        android:layout_width="0dp"-->
+<!--        android:layout_height="20dp"-->
+<!--        android:layout_alignParentLeft="true"-->
+<!--        android:layout_marginLeft="16dp"-->
+<!--        android:layout_alignParentRight="true"-->
+<!--        android:layout_marginRight="16dp"-->
+<!--        android:layout_centerVertical="true"-->
+<!--        android:text="@string/button"-->
+<!--        android:textAppearance="@style/button"-->
+<!--        android:lineSpacingExtra="0sp"-->
+<!--        android:gravity="center_horizontal|center_vertical"-->
+
+<!--        android:textSize="60px"-->
+<!--        android:letterSpacing="0.01"-->
+<!--        android:textColor="#FFFFFF"-->
+<!--        />-->
+
+
+
+
+
+
+
+
+
+
+
+</RelativeLayout>

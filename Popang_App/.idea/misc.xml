@@ -3,6 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Yugyeong Cho/Documents/GitHub/AI-Project/Popang_App/app/src/main/res/drawable/android_log.xml" value="0.1235" />
+        <entry key="..\:/Users/Yugyeong Cho/Documents/GitHub/AI-Project/Popang_App/app/src/main/res/layout/04_send_input.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/Yugyeong Cho/Documents/GitHub/AI-Project/Popang_App/app/src/main/res/layout/06_send_match_info.xml" value="0.1" />
+        <entry key="..\:/Users/Yugyeong Cho/Documents/GitHub/AI-Project/Popang_App/app/src/main/res/layout/07_receive_o.xml" value="0.4" />
+        <entry key="..\:/Users/Yugyeong Cho/Documents/GitHub/AI-Project/Popang_App/app/src/main/res/layout/08_receive_x.xml" value="0.136" />
+        <entry key="..\:/Users/Yugyeong Cho/Documents/GitHub/AI-Project/Popang_App/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Yugyeong Cho/Documents/GitHub/AI-Project/Popang_App/app/src/main/res/layout/loading.xml" value="0.1" />
+        <entry key="..\:/Users/Yugyeong Cho/Documents/GitHub/AI-Project/Popang_App/app/src/main/res/layout/login.xml" value="0.16452702702702704" />
+        <entry key="..\:/Users/Yugyeong Cho/Documents/GitHub/AI-Project/Popang_App/app/src/main/res/layout/moving_map.xml" value="0.2" />
+        <entry key="..\:/Users/Yugyeong Cho/Documents/GitHub/AI-Project/Popang_App/app/src/main/res/layout/re_send_info.xml" value="0.16452702702702704" />
+        <entry key="..\:/Users/Yugyeong Cho/Documents/GitHub/AI-Project/Popang_App/app/src/main/res/layout/receive.xml" value="0.1" />
+        <entry key="..\:/Users/Yugyeong Cho/Documents/GitHub/AI-Project/Popang_App/app/src/main/res/layout/receive_o.xml" value="0.10400000000000001" />
+        <entry key="..\:/Users/Yugyeong Cho/Documents/GitHub/AI-Project/Popang_App/app/src/main/res/layout/receive_x.xml" value="0.264" />
+        <entry key="..\:/Users/Yugyeong Cho/Documents/GitHub/AI-Project/Popang_App/app/src/main/res/layout/send_info.xml" value="0.152" />
+        <entry key="..\:/Users/Yugyeong Cho/Documents/GitHub/AI-Project/Popang_App/app/src/main/res/layout/send_input.xml" value="0.136" />
+        <entry key="..\:/Users/Yugyeong Cho/Documents/GitHub/AI-Project/Popang_App/app/src/main/res/layout/send_match_info.xml" value="0.2" />
         <entry key="app/src/main/res/drawable/alert_bell_.xml" value="0.12013888888888889" />
         <entry key="app/src/main/res/drawable/android_loa.xml" value="0.22962962962962963" />
         <entry key="app/src/main/res/drawable/android_log.xml" value="0.1" />
@@ -10,29 +26,16 @@
         <entry key="app/src/main/res/drawable/box.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/button_cont.xml" value="0.20912162162162162" />
         <entry key="app/src/main/res/drawable/button_cont2.xml" value="0.1" />
-        <entry key="app/src/main/res/drawable/finish_btn.xml" value="0.1" />
-        <entry key="app/src/main/res/drawable/line_13.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/line_2.xml" value="0.12013888888888889" />
         <entry key="app/src/main/res/drawable/main_background.xml" value="0.1" />
-        <entry key="app/src/main/res/drawable/main_btn.xml" value="0.1" />
-        <entry key="app/src/main/res/drawable/new_size.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/receive_btn.xml" value="0.12013888888888889" />
-        <entry key="app/src/main/res/drawable/register_btn.xml" value="0.1" />
-        <entry key="app/src/main/res/drawable/search_btn.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/send_check_btn.xml" value="0.12013888888888889" />
         <entry key="app/src/main/res/drawable/some_id.xml" value="0.1" />
-        <entry key="app/src/main/res/drawable/to_main.xml" value="0.1" />
         <entry key="app/src/main/res/font/font.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="app/src/main/res/layout/alert_accept.xml" value="0.32323232323232326" />
-        <entry key="app/src/main/res/layout/alert_arrive.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/alert_getiem.xml" value="0.33" />
-        <entry key="app/src/main/res/layout/alert_noperson.xml" value="0.25" />
-        <entry key="app/src/main/res/layout/alert_reject.xml" value="0.25" />
-        <entry key="app/src/main/res/layout/alert_start.xml" value="0.25" />
         <entry key="app/src/main/res/layout/loading.xml" value="0.25" />
         <entry key="app/src/main/res/layout/login.xml" value="0.16541353383458646" />
-        <entry key="app/src/main/res/layout/send_input.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/send_input.xml" value="0.17670682730923695" />
       </map>
     </option>
   </component>

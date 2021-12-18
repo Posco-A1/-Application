@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/some_id"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:clipToOutline="true"
+    android:background="@drawable/some_id"
+    >
+
+    <!-- Line 2 -->
+    <View
+        android:id="@+id/line_2"
+        android:layout_width="1440px"
+        android:layout_height="3px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="142px"
+        android:width="1443px"
+
+        android:height="3px"
+        android:background="@drawable/line_2"
+        android:strokeWidth="3"
+        android:strokeColor="#D1D1D1"
+
+        android:viewportWidth="1443"
+        android:viewportHeight="3" />
+
+    <TextView
+        android:id="@+id/some_id"
+        android:layout_width="0px"
+        android:layout_height="341px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="120px"
+        android:layout_marginTop="857px"
+        android:layout_marginRight="120px"
+        android:gravity="center_horizontal|center_vertical"
+        android:letterSpacing="0"
+        android:lineSpacingExtra="45px"
+        android:text="새로운 알림이 없습니다."
+
+        android:textAppearance="true"
+        android:textColor="#2B2B43"
+        android:textSize="60px" />
+
+    <!-- button / contained / accent / default -->
+    <Button xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/button_cont"
+        android:layout_width="0px"
+        android:layout_height="220px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="155px"
+        android:layout_marginTop="1430px"
+        android:layout_marginRight="155px"
+        android:width="1130px"
+        android:height="220px"
+
+        android:background="#05507D"
+        android:elevation="20px"
+        android:fillColor="#05507D"
+        android:text="메인으로"
+
+        android:textColor="#FFFFFF"
+        android:textSize="60px"
+        android:viewportWidth="1130"
+        android:viewportHeight="220" />
+
+    <!-- Rectangle 26 -->
+    <View
+        android:id="@+id/rectangle_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="2134px"
+        android:width="1450px"
+
+        android:height="802px"
+        android:background="#E5E5E5"
+
+        android:viewportWidth="1450"
+        android:viewportHeight="802" />
+
+
+
+</RelativeLayout>

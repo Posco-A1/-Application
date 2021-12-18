@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/some_id"
+    android:clipToOutline="true">
+
+    <!-- Line 2 -->
+    <View
+        android:id="@+id/line_2"
+        android:layout_width="1440px"
+        android:layout_height="3px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="142px"
+        android:width="1443px"
+
+        android:height="3px"
+        android:background="@drawable/line_2"
+        android:viewportWidth="1443"
+        android:viewportHeight="3" />
+
+    <!-- 발송인 정보 -->
+    <TextView
+        android:id="@+id/some_id"
+        android:layout_width="0px"
+        android:layout_height="151px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="134px"
+        android:layout_marginTop="203px"
+        android:layout_marginRight="714px"
+        android:gravity="center_vertical"
+        android:letterSpacing="0"
+        android:lineSpacingExtra="0px"
+        android:text="발송인 정보"
+
+        android:textAppearance="true"
+        android:textColor="#2B2B43"
+        android:textSize="90px" />
+
+    <!-- 이름 -->
+    <TextView
+        android:id="@+id/some_id"
+        android:layout_width="0px"
+        android:layout_height="79px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="140px"
+        android:layout_marginTop="392px"
+        android:layout_marginRight="950px"
+        android:gravity="center_vertical"
+        android:letterSpacing="0"
+        android:lineSpacingExtra="0px"
+        android:text="이름"
+
+        android:textAppearance="true"
+        android:textColor="#2B2B43"
+        android:textSize="70px" />
+
+    <!-- 포석호 -->
+    <TextView
+        android:id="@+id/some_id"
+        android:layout_width="0px"
+        android:layout_height="79px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="585px"
+        android:layout_marginTop="392px"
+        android:layout_marginRight="385px"
+        android:gravity="center_vertical"
+        android:letterSpacing="0"
+        android:lineSpacingExtra="0px"
+        android:text="포석호"
+
+        android:textAppearance="true"
+        android:textColor="#2B2B43"
+        android:textSize="70px" />
+
+    <!-- 사원번호 -->
+    <TextView
+        android:id="@+id/some_id"
+        android:layout_width="0px"
+        android:layout_height="80px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="140px"
+        android:layout_marginTop="505px"
+        android:layout_marginRight="950px"
+        android:gravity="center_vertical"
+        android:letterSpacing="0"
+        android:lineSpacingExtra="0px"
+        android:text="사원번호"
+
+        android:textAppearance="20211018"
+        android:textColor="#2B2B43"
+        android:textSize="70px" />
+
+    <!-- 20211018 -->
+    <TextView
+        android:id="@+id/some_id"
+        android:layout_width="0px"
+        android:layout_height="126px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="585px"
+        android:layout_marginTop="480px"
+        android:layout_marginRight="470px"
+        android:gravity="center_vertical"
+        android:letterSpacing="0"
+        android:lineSpacingExtra="0px"
+        android:text="20211018"
+
+        android:textAppearance="true"
+        android:textColor="#2B2B43"
+        android:textSize="70px" />
+
+    <!-- 부서 -->
+    <TextView
+        android:id="@+id/some_id"
+        android:layout_width="0px"
+        android:layout_height="79px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="140px"
+        android:layout_marginTop="615px"
+        android:layout_marginRight="950px"
+        android:gravity="center_vertical"
+        android:letterSpacing="0"
+        android:lineSpacingExtra="0px"
+        android:text="부서"
+
+        android:textAppearance="true"
+        android:textColor="#2B2B43"
+        android:textSize="70px" />
+
+    <!-- 로켓배송본부 -->
+    <TextView
+        android:id="@+id/some_id"
+        android:layout_width="0px"
+        android:layout_height="79px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="585px"
+        android:layout_marginTop="615px"
+        android:layout_marginRight="385px"
+        android:gravity="center_vertical"
+        android:letterSpacing="0"
+        android:lineSpacingExtra="0px"
+        android:text="로켓배송본부"
+
+        android:textAppearance="true"
+        android:textColor="#2B2B43"
+        android:textSize="70px" />
+
+    <!-- Rectangle 25 -->
+    <View
+        android:id="@+id/rectangle_2"
+        android:layout_width="1440px"
+        android:layout_height="49px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="789px"
+        android:width="1440px"
+
+        android:height="49px"
+        android:background="#E5E5E5"
+        android:viewportWidth="1440"
+        android:viewportHeight="49" />
+
+    <!-- 수령인 정보 -->
+    <TextView
+        android:id="@+id/some_id"
+        android:layout_width="0px"
+        android:layout_height="151px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="134px"
+        android:layout_marginTop="910px"
+        android:layout_marginRight="714px"
+        android:gravity="center_vertical"
+        android:letterSpacing="0"
+        android:lineSpacingExtra="0px"
+
+        android:textAppearance="true"
+        android:textColor="#2B2B43"
+        android:textSize="90px" />
+
+    <!-- box -->
+
+    <!-- Placeholder -->
+
+
+</RelativeLayout>
+
+<!--<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent">-->
+
+<!--</androidx.constraintlayout.widget.ConstraintLayout>-->
