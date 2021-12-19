@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 발송하기 - 정보 입력 -->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/some_id"
+    android:layout_width="1440px"
+    android:layout_height="2960px"
+    android:clipToOutline="true"
+    android:orientation="vertical"
+    android:background="@drawable/some_id"
+    >
+
+    <!-- send_line -->
+    <View
+        android:id="@+id/send_line"
+        android:layout_width="1440px"
+        android:layout_height="3px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="142px"
+        android:background="@drawable/main_box"
+        />
+
+    <!-- 발송하기 -->
+    <TextView
+        android:id="@+id/send_text"
+        android:layout_width="0px"
+        android:layout_height="151px"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="155px"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="767px"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="644px"
+        android:text="발송하기"
+        android:lineSpacingExtra="0px"
+        android:gravity="center_vertical"
+        android:textSize="34dp"
+        android:textColor="#000000"/>
+
+    <EditText xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/send_input1"
+        android:layout_width="0px"
+        android:layout_height="260.23px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="155px"
+        android:layout_marginTop="901px"
+        android:layout_marginRight="155px"
+        android:background="@drawable/textfield_c" />
+
+    <!-- textfield / contained input / field / default -->
+    <EditText
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/send_input2"
+        android:layout_width="0px"
+        android:layout_height="260.23px"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="155px"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="155px"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="1161px"
+        android:background="@drawable/textfield_c"
+        />
+
+    <!-- button / contained / accent / default -->
+    <Button xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/send_btn"
+        android:layout_width="0px"
+        android:layout_height="220px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="155px"
+        android:layout_marginTop="1540px"
+        android:layout_marginRight="155px"
+        android:background="@drawable/button_cont"
+        android:text="등록"
+        android:textSize="70px"
+        android:elevation="20px" />
+
+    <!-- send_box -->
+    <View
+        android:id="@+id/send_box"
+        android:layout_width="1450px"
+        android:layout_height="802px"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="616dp"
+        android:layout_marginBottom="1dp"
+        android:background="@drawable/main_box" />
+
+
+</RelativeLayout>
