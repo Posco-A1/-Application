@@ -23,7 +23,7 @@
 
     <!-- 사원 로그인 -->
     <TextView
-        android:id="@+id/some_id"
+        android:id="@+id/login"
         android:layout_width="0px"
         android:layout_height="194px"
         android:layout_alignParentLeft="true"
