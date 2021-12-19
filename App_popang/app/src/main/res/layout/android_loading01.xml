@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Android - loading -->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/android_loa"
+    android:layout_width="1440px"
+    android:layout_height="2960px"
+    android:clipToOutline="true"
+    android:orientation="vertical"
+    android:background="@drawable/android_loa"
+    >
+
+    <!-- logo -->
+    <ImageView
+
+        android:id="@+id/logo"
+        android:layout_width="619px"
+        android:layout_height="348px"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="411px"
+
+        android:layout_marginTop="1282px"
+        android:src="@drawable/popang" />
+
+</RelativeLayout>

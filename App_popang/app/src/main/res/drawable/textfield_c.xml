@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- drawable/textfield_c.xml -->
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="1130px"
+    android:height="260.23px"
+    android:viewportWidth="1130"
+    android:viewportHeight="260.23"
+    >
+
+    <group>
+
+        <clip-path
+            android:pathData="M0 0H1130V260.23H0V0Z"
+            />
+
+    </group>
+
+</vector>

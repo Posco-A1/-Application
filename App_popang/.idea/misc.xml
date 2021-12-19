@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/SEC/App_popang/app/src/main/res/drawable/android_loa.xml" value="0.23796296296296296" />
+        <entry key="..\:/Users/SEC/App_popang/app/src/main/res/drawable/android_log.xml" value="0.11527777777777778" />
+        <entry key="..\:/Users/SEC/App_popang/app/src/main/res/drawable/android_mai.xml" value="0.11527777777777778" />
+        <entry key="..\:/Users/SEC/App_popang/app/src/main/res/drawable/box.xml" value="0.11527777777777778" />
+        <entry key="..\:/Users/SEC/App_popang/app/src/main/res/drawable/button_cont.xml" value="0.11527777777777778" />
+        <entry key="..\:/Users/SEC/App_popang/app/src/main/res/drawable/img_.xml" value="0.11527777777777778" />
+        <entry key="..\:/Users/SEC/App_popang/app/src/main/res/drawable/info_line.xml" value="0.11527777777777778" />
+        <entry key="..\:/Users/SEC/App_popang/app/src/main/res/drawable/main_box.xml" value="0.11527777777777778" />
+        <entry key="..\:/Users/SEC/App_popang/app/src/main/res/drawable/main_btn.xml" value="0.11527777777777778" />
+        <entry key="..\:/Users/SEC/App_popang/app/src/main/res/drawable/middle_box.xml" value="0.11527777777777778" />
+        <entry key="..\:/Users/SEC/App_popang/app/src/main/res/drawable/mini_btn.xml" value="0.11527777777777778" />
+        <entry key="..\:/Users/SEC/App_popang/app/src/main/res/drawable/send_box.xml" value="0.11527777777777778" />
+        <entry key="..\:/Users/SEC/App_popang/app/src/main/res/drawable/send_img.xml" value="0.11527777777777778" />
+        <entry key="..\:/Users/SEC/App_popang/app/src/main/res/drawable/send_line.xml" value="0.11527777777777778" />
+        <entry key="..\:/Users/SEC/App_popang/app/src/main/res/drawable/some_id.xml" value="0.11527777777777778" />
+        <entry key="..\:/Users/SEC/App_popang/app/src/main/res/drawable/textfield_c.xml" value="0.11527777777777778" />
+        <entry key="..\:/Users/SEC/App_popang/app/src/main/res/layout/android_loading01.xml" value="0.18840579710144928" />
+        <entry key="..\:/Users/SEC/App_popang/app/src/main/res/layout/android_login02.xml" value="0.1" />
+        <entry key="..\:/Users/SEC/App_popang/app/src/main/res/layout/android_main03.xml" value="0.2" />
+        <entry key="..\:/Users/SEC/App_popang/app/src/main/res/layout/send_info_correct05.xml" value="0.1984126984126984" />
+        <entry key="..\:/Users/SEC/App_popang/app/src/main/res/layout/send_info_img06.xml" value="0.11645653616456536" />
+        <entry key="..\:/Users/SEC/App_popang/app/src/main/res/layout/send_input_info04.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
